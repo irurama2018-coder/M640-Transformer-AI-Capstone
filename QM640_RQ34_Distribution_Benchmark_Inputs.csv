@@ -1,0 +1,7 @@
+rating_kva,p50_3star_w,p100_3star_w,p50_5star_w,p100_5star_w,full_replacement_capex_inr,source_type
+16,108,364,87,301,50000,published_loss_ceiling_plus_assumed_capex
+25,158,541,128,448,70000,published_loss_ceiling_plus_assumed_capex
+63,270,956,219,791,110000,published_loss_ceiling_plus_assumed_capex
+100,392,1365,317,1130,150000,published_loss_ceiling_plus_assumed_capex
+160,513,1547,416,1281,240000,published_loss_ceiling_plus_assumed_capex
+200,603,1911,488,1582,300000,published_loss_ceiling_plus_assumed_capex
