@@ -1,0 +1,6 @@
+scenario,total_incremental_npv_inr,total_annual_incremental_benefit_inr,positive_npv_assets
+No discretionary reduction,-283095.71113802923,-15900.0,0
+Conservative,-204134.52024190853,-6675.0,0
+Base hypothetical,-107874.62291748857,4571.0,0
+Optimistic hypothetical,-11614.725593068622,15817.0,1
+Adverse: failure risk rises,-159770.74220238614,-1492.0,0
